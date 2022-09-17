@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+    <head>
+        <html lang="en"> 
+            <meta charset ="uft-8">
+            <meta name="viewport"
+                content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+                <meta http-quiv="X-UA-compatible" content="ie=edge">
+
+        <title>CV Vitalii Belevtsov</title>
+        <style>
+            p.dline {
+             line-height: 1.;
+            }
+            P {
+             line-height: 0.1em;
+            }
+           </style>
+   </head>
+<body>
+    <section>
+        <div>
+            <hr>PERSONAL DATA<hr>
+        </div>
+    <p class="fig"><img src="./resource/unnamed.jpg" width="200" height="200" alt="Photo"></p>
+    </section>
+    <section>
+        <h1>First and last name: Vitalii Belevtsov</h1>
+        <div>
+            <ul>
+            <li>Ukraine</li>
+            <li>Country: Ukraine, Odessa city</li>
+            <li>City of residence: Ukraine</li>
+            <li>Date and place of birth: 21 October 1991 in Kharkiv</li>
+            <li>Marital status: married</li>
+            <li>Children: No</li>
+            <li>Email: <a href="https://mail.google.com/mail">vitaliybelevcov@gmail.com</a></li>
+            <li>Facebook: <a href="https://www.facebook.com/vitaliybelevtsov.belevtsov/">Vitalii Belevtsov</a></li>
+            <li>Instagram: <a href="https://www.instagram.com/belevtsov1991/">Vitalii Belevtsov</a></li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <hr>
+            <h1>Cover Letter</h1>
+        <hr>
+        <div>
+            <span>My name is Vitalii Belevtsov. I can easily speak and write in English,
+        because I have been working at Princess Cruise company for the last 2 years as a bartender.
+          have big experience at the bar. It means that I have experience in accounting and sales and up-sales alcoholic beverages for 9 years.
+            Also I have experience at renting apartments as a mediator for at least one year.  
+         Now I am looking for a job at home from Laptop, because of the lockdown in our country.
+          I am looking for a job for a long-term.
+            </span>
+        </div>
+        <section>
+        <div>
+            <hr>
+                <h2>EDUCATIONAL ATTAINMENT / QUALIFICATION:</h2>
+            <hr>
+            <ul>Certificate /Degree
+               <li>Diploma of Higher Education</li> 
+            </ul>
+            <ul>School / College /University
+                    <li>National Technical University
+                        Kharkov Polytechnic Institute
+                    </li>
+             </ul>
+             <ul> Area of specialization
+                    <li>
+                        Technique and electro physics of high voltages
+                    </li>
+            </ul>
+            <ul>
+                    Year completed
+                    <li>2015 year</li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div>
+            <hr>
+                <h2>LANGUAGE SKILLS:</h2>
+            <hr>
+            <table cellspacing="35">
+                <tr>
+                 <th>&nbsp;</th><th>Reading</th><th>Writing</th><th>Speaking</th><th>Understanding</th>
+                </tr>
+                <tr>
+                 <td>English</td><td>Good</td><td>Good</td><td>Good</td><th>Good</th>
+                </tr>
+                <tr>
+                 <td>Ukraine</td><td>exelent</td><td>exelent</td><td>exelent</td><th>exelent</th>
+                </tr>
+                <tr>
+                 <td>Russian</td><td>exelent</td><td>exelent</td><td>exelent</td><th>exelent</th>
+                </tr>
+               </table>
+        </div>
+    </section>
+    <section>
+        <div>
+            <hr>
+                <h3>COMPUTER SKILLS INFO:</h3>
+            <hr>
+            <table cellspacing="35">
+                <tr>
+                 <th>&nbsp;</th><th>Skill Level</th>
+                </tr>
+                <tr>
+                 <td>Microsoft Word</td><td>Good</td>
+                </tr>
+                <tr>
+                 <td>Microsoft Excel</td><td>Good</td>
+                </tr>
+                <tr>
+                <td>Micros POS System</td><td>exelent</td>
+                </tr>
+                <tr>
+                 <td>FMC System</td><td>Good</td>
+                 </tr>
+                 <tr>
+                <td>Rkeeper</td><td>exelent</td>
+                </tr>
+               </table>
+            </div>
+    </section>
+    <section>
+        <div>
+            <hr>
+                <h4>Personal qualities:</h4>
+            <hr>
+            <ul>
+                <li>Responsible</li>
+                <li>Communication Skills</li>
+                <li>Flexibility</li>
+                <li>Easily trained</li>
+                <li>Determination and Persistence</li>
+                <li>I have organizational skills</li>
+                <li>Lead a healthy lifestyle</li>
+            </ul>
+        </div>
+    </section>
+
+</body>
+
